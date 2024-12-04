@@ -16,7 +16,7 @@
           <a class="nav-link active" aria-current="page" href="/new_ipal/new_ipal/jurusan/index.php">Data Jurusan</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Data Dosen</a>
+          <a class="nav-link active" aria-current="page" href="/new_ipal/new_ipal/dosen/index.php">Data Dosen</a>
         </li>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">Action</a></li>
